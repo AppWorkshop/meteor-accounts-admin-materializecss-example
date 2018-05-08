@@ -71,5 +71,18 @@
         }
       }
     }
+  },
+  "defaultUserAccount":{ 
+    "username": "admin", 
+    "email": "admin@example.com", 
+    "password": "password123", 
+    "profile": { 
+      "firstname": "Admin", 
+      "surname": "User", 
+      "contactDetails": { 
+        "mobilePhone": "0411111111", 
+        "emailAddress": "admin@example.com"
+      }
+    }
   }
 }
